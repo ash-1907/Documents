@@ -1,0 +1,6 @@
+use this for user dalai (Script top IO bottom)
+# install httpd ILinux 2 version)
+yum install -y httpd
+systemctl start httpd
+systemctl enable httpd
+•chl *Hello World from $lhostname fvar/vow/htmVindex.h011(
